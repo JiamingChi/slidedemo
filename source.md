@@ -1,62 +1,75 @@
-class: center, middle
 
-# 讲义题目
+
+# 概论作业5 第三题  自我介绍
 
 &nbsp;
-&nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 迟家明 (1700012459@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/JiamingChi
 
 ---
 
 ## 本讲内容
 
-### <font color="orangered">1. 第一部分</font>
+### <font color="dblue">1. 我的基本信息</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+### 2. 我的简历
 
-### 2. 第二部分
+### 3. 我的内在
+#### &nbsp; &nbsp; 3.1 我的座右铭
+#### &nbsp; &nbsp; 3.2 我的志向和业余爱好
+---
 
-### 3. 第三部分
+## 基本信息
+性别：男
+
+民族：汉
+
+年龄：18
+
+出生日期：1999年8月26日
+
+籍贯：北京市
+
+出生地：北京市
+
+宗教信仰：无
+
+情感状态：单身
+
+就读学校：北京大学
+
+就读学院：地球与空间科学学院
 
 ---
 
-## 第一部分
+## 我的简历
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
 
----
-
-## 插图
-
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+1. 小学：2005.9-2011.7
+    北京市海淀区     中关村第一小学    
+2. 初中：2011.9-2014.7
+    北京市海淀区     中国人民大学附属中学
+3. 高中：2014.9-2017.7
+    北京市海淀区     中国人民大学附属中学
+4. 大学：2017.9至今
+    北京市海淀区     北京大学 
 
 ---
 
-## `\(\LaTeX{}\)` in remark
-
-
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+## 我的内在  
+####我的座右铭
+我最喜爱的一句格言是：
+#坚持原则，不急不躁，
+#循序渐进，水到渠成。
 
 ---
+## 我的志向与业余爱好 
+####我的志向是从事有关探究世界本质，可以为社会谋发展，为人民谋利益的学术事业。相对而言，我对理科（不包括工科）更加感兴趣和擅长。除此以外，我致力于不走寻常路，做有创造力的人和有创新性的工作。具体来说，我对生命科学、化学、认知科学、语言学、数学、社会学感兴趣。
 
-class: center, middle
+####我的业余爱好包括羽毛球、乒乓球、足球、听音乐等。
+
+---
 
 # 谢谢
